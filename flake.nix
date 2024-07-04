@@ -54,6 +54,7 @@
         ripgrep
         fd
         fastfetch
+	lazygit
 
       ];
 

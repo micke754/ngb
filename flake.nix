@@ -6,6 +6,7 @@
 
   inputs = {
 
+    # nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";# Current stable relese
 
   };
@@ -49,6 +50,8 @@
         libgcc
 
         neovim
+        neovide
+        zellij
         yazi
         fzf
         ripgrep
